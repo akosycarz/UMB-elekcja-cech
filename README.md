@@ -1,1 +1,1 @@
-# UMB-elekcja-cech
+# UMB-selekcja-cech
